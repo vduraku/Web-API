@@ -1,0 +1,11 @@
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Domain\bin\Debug\net9.0\Aralytiks.Domain.deps.json
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Domain\bin\Debug\net9.0\Aralytiks.Domain.dll
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Domain\bin\Debug\net9.0\Aralytiks.Domain.pdb
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Domain\obj\Debug\net9.0\Aralytiks.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Domain\obj\Debug\net9.0\Aralytiks.Domain.AssemblyInfoInputs.cache
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Domain\obj\Debug\net9.0\Aralytiks.Domain.AssemblyInfo.cs
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Domain\obj\Debug\net9.0\Aralytiks.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Domain\obj\Debug\net9.0\Aralytiks.Domain.dll
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Domain\obj\Debug\net9.0\refint\Aralytiks.Domain.dll
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Domain\obj\Debug\net9.0\Aralytiks.Domain.pdb
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Domain\obj\Debug\net9.0\ref\Aralytiks.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Infrastructure\bin\Debug\net9.0\Aralytiks.Infrastructure.deps.json
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Infrastructure\bin\Debug\net9.0\Aralytiks.Infrastructure.runtimeconfig.json
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Infrastructure\bin\Debug\net9.0\Aralytiks.Infrastructure.dll
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Infrastructure\bin\Debug\net9.0\Aralytiks.Infrastructure.pdb
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Infrastructure\bin\Debug\net9.0\Aralytiks.Domain.dll
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Infrastructure\bin\Debug\net9.0\Aralytiks.Domain.pdb
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Infrastructure\obj\Debug\net9.0\Aralytiks.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Infrastructure\obj\Debug\net9.0\Aralytiks.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Infrastructure\obj\Debug\net9.0\Aralytiks.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Infrastructure\obj\Debug\net9.0\Aralytiks.Infrastructure.AssemblyInfo.cs
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Infrastructure\obj\Debug\net9.0\Aralytiks.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Infrastructure\obj\Debug\net9.0\Aralytik.71983546.Up2Date
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Infrastructure\obj\Debug\net9.0\Aralytiks.Infrastructure.dll
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Infrastructure\obj\Debug\net9.0\refint\Aralytiks.Infrastructure.dll
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Infrastructure\obj\Debug\net9.0\Aralytiks.Infrastructure.pdb
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Infrastructure\obj\Debug\net9.0\Aralytiks.Infrastructure.genruntimeconfig.cache
+C:\Users\lona_\source\repos\TestApps\TestApps\Aralytiks\Aralytiks.Infrastructure\obj\Debug\net9.0\ref\Aralytiks.Infrastructure.dll
